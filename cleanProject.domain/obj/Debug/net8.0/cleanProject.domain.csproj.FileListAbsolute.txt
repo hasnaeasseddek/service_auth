@@ -1,0 +1,11 @@
+C:\cleanProject\cleanProject.domain\bin\Debug\net8.0\cleanProject.domain.deps.json
+C:\cleanProject\cleanProject.domain\bin\Debug\net8.0\cleanProject.domain.dll
+C:\cleanProject\cleanProject.domain\bin\Debug\net8.0\cleanProject.domain.pdb
+C:\cleanProject\cleanProject.domain\obj\Debug\net8.0\cleanProject.domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\cleanProject\cleanProject.domain\obj\Debug\net8.0\cleanProject.domain.AssemblyInfoInputs.cache
+C:\cleanProject\cleanProject.domain\obj\Debug\net8.0\cleanProject.domain.AssemblyInfo.cs
+C:\cleanProject\cleanProject.domain\obj\Debug\net8.0\cleanProject.domain.csproj.CoreCompileInputs.cache
+C:\cleanProject\cleanProject.domain\obj\Debug\net8.0\cleanProject.domain.dll
+C:\cleanProject\cleanProject.domain\obj\Debug\net8.0\refint\cleanProject.domain.dll
+C:\cleanProject\cleanProject.domain\obj\Debug\net8.0\cleanProject.domain.pdb
+C:\cleanProject\cleanProject.domain\obj\Debug\net8.0\ref\cleanProject.domain.dll

@@ -1,0 +1,15 @@
+C:\cleanProject\cleanProject.Application\obj\Debug\net8.0\cleanProject.Application.csproj.AssemblyReference.cache
+C:\cleanProject\cleanProject.Application\obj\Debug\net8.0\cleanProject.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\cleanProject\cleanProject.Application\obj\Debug\net8.0\cleanProject.Application.AssemblyInfoInputs.cache
+C:\cleanProject\cleanProject.Application\obj\Debug\net8.0\cleanProject.Application.AssemblyInfo.cs
+C:\cleanProject\cleanProject.Application\obj\Debug\net8.0\cleanProject.Application.csproj.CoreCompileInputs.cache
+C:\cleanProject\cleanProject.Application\bin\Debug\net8.0\cleanProject.Application.deps.json
+C:\cleanProject\cleanProject.Application\bin\Debug\net8.0\cleanProject.Application.dll
+C:\cleanProject\cleanProject.Application\bin\Debug\net8.0\cleanProject.Application.pdb
+C:\cleanProject\cleanProject.Application\bin\Debug\net8.0\cleanProject.domain.dll
+C:\cleanProject\cleanProject.Application\bin\Debug\net8.0\cleanProject.domain.pdb
+C:\cleanProject\cleanProject.Application\obj\Debug\net8.0\cleanProject.Application.csproj.CopyComplete
+C:\cleanProject\cleanProject.Application\obj\Debug\net8.0\cleanProject.Application.dll
+C:\cleanProject\cleanProject.Application\obj\Debug\net8.0\refint\cleanProject.Application.dll
+C:\cleanProject\cleanProject.Application\obj\Debug\net8.0\cleanProject.Application.pdb
+C:\cleanProject\cleanProject.Application\obj\Debug\net8.0\ref\cleanProject.Application.dll

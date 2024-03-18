@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="13.0.1" />
+    <PackageReference Include="MediatR" Version="12.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\cleanProject.domain\cleanProject.domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Features\LeaveAllocation\handlers\Commandes\" />
+    <Folder Include="Features\LeaveAllocation\requests\Commandes\" />
+    <Folder Include="Features\LeaveRequest\request\Commandes\" />
+    <Folder Include="Features\LeaveRequest\handlers\Commandes\" />
+    <Folder Include="Features\LeaveType\handlers\Commandes\" />
+    <Folder Include="Features\LeaveType\Requests\Commandes\" />
+  </ItemGroup>
+
+</Project>
